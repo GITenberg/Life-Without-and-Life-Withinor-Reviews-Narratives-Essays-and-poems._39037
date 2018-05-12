@@ -1,0 +1,43 @@
+_repo: Life-Without-and-Life-Withinor-Reviews-Narratives-Essays-and-poems._39037
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39037-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fuller, Margaret
+    aliases:
+    - Ossoli, Margaret Fuller
+    - Fuller, S. Margaret (Sarah Margaret)
+    - Fuller, Sara Margarita
+    - Ossoli, Sara Margarita
+    birthdate: 1810
+    deathdate: 1850
+    gutenberg_agent_id: '2829'
+    url: http://www.gutenberg.org/2009/agents/2829
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Fuller
+  editor:
+    agent_name: Fuller, Arthur B. (Arthur Buckminster)
+    aliases:
+    - Fuller, Arthur Buckminster
+    - Fuller, A. Buckminster (Arthur Buckminster)
+    birthdate: 1822
+    deathdate: 1862
+    gutenberg_agent_id: '6625'
+    url: http://www.gutenberg.org/2009/agents/6625
+description: ''
+gutenberg_issued: '2012-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PS'
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'Poetry'
+title: Life Without and Life Within; or, Reviews, Narratives, Essays, and Poems.
+url: http://www.gutenberg.org/ebooks/39037
