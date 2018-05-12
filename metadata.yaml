@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '6625'
     url: http://www.gutenberg.org/2009/agents/6625
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39037#Life-Without-and-Life-Withinor-Reviews-Narratives-Essays-and-poems.
 gutenberg_issued: '2012-03-03'
 gutenberg_type: Text
 identifiers:
